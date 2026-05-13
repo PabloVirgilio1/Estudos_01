@@ -1,5 +1,5 @@
 python
-content = """# 🚀 Meus Primeiros Passos no Desenvolvimento de Software
+content = # 🚀 Meus Primeiros Passos no Desenvolvimento de Software
 
 Bem-vindo(a) ao meu repositório de estudos! Aqui é o espaço onde registro minha evolução, experimentos e os primeiros projetos desenvolvidos durante minha jornada no mundo do **Software Development**, com foco total em **JavaScript**.
 
